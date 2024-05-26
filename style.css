@@ -1,0 +1,15 @@
+.footerContainer{
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+.socailIcons{
+    display: flex;
+    justify-content: center;
+}
+.socailIcons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: skyblue;
+    margin: 10px;
+    border-radius: 50%;
+}
